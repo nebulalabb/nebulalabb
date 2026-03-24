@@ -16,7 +16,7 @@
 <br/>
 
 [![Website](https://img.shields.io/badge/🌐_Website-nebulalab.vercel.app-0d1117?style=for-the-badge&labelColor=6366f1)](https://nebulalab.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-nebulalab-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22)](https://github.com/nebulalabb)
+[![GitHub](https://img.shields.io/badge/GitHub-nebulalabb-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22)](https://github.com/nebulalabb)
 
 <br/>
 
@@ -44,8 +44,8 @@
 |  | Lĩnh vực | Công nghệ |
 |:---:|:---|:---|
 | 🌍 | **Web Development** | React · Next.js · Node.js · PHP · Laravel |
-| 📱 | **Mobile App** | React Native · Flutter · PWA |
-| 🤖 | **Artificial Intelligence** | Python · LangChain · RAG · ML Pipelines |
+| 📱 | **Mobile App** | Flutter · React Native · PWA |
+| 🤖 | **Artificial Intelligence** | Python · LangChain · RAG · TensorFlow |
 | 🎮 | **Game Development** | Unity · WebGL · Three.js |
 
 </div>
@@ -68,6 +68,11 @@
 
 Chịu trách nhiệm định hướng chiến lược, kiến trúc tổng thể và dẫn dắt nhóm xây dựng những sản phẩm có tầm nhìn dài hạn.
 
+**Lĩnh vực:**
+![Web](https://img.shields.io/badge/🌍_Web-1a1a2e?style=flat-square&labelColor=6366f1&color=1a1a2e)
+![Mobile](https://img.shields.io/badge/📱_Mobile_App-1a1a2e?style=flat-square&labelColor=34C759&color=1a1a2e)
+![AI](https://img.shields.io/badge/🤖_AI%2FML-1a1a2e?style=flat-square&labelColor=FF6B47&color=1a1a2e)
+
 ![Strategy](https://img.shields.io/badge/-Chiến%20lược-0D1117?style=flat-square&labelColor=FFD700&color=1a1a1a)
 ![Leadership](https://img.shields.io/badge/-Lãnh%20đạo-0D1117?style=flat-square&labelColor=FFD700&color=1a1a1a)
 ![System Design](https://img.shields.io/badge/-Thiết%20kế%20Hệ%20thống-0D1117?style=flat-square&labelColor=FFD700&color=1a1a1a)
@@ -89,21 +94,29 @@ Chịu trách nhiệm định hướng chiến lược, kiến trúc tổng th�
 
 > *Xây dựng và tối ưu hệ thống backend hiệu năng cao, đảm bảo khả năng mở rộng và ổn định cho sản phẩm.*
 
+**Lĩnh vực:**
+![Web](https://img.shields.io/badge/🌍_Web-1a1a2e?style=flat-square&labelColor=6366f1&color=1a1a2e)
+![AI](https://img.shields.io/badge/🤖_AI%2FML-1a1a2e?style=flat-square&labelColor=FF6B47&color=1a1a2e)
+![Game](https://img.shields.io/badge/🎮_Game-1a1a2e?style=flat-square&labelColor=A855F7&color=1a1a2e)
+
 ```yaml
 focus:
-  - High-performance systems
-  - Microservices architecture
-  - Database optimization
-  - Cloud infrastructure
+  - High-performance backend systems
+  - AI/ML model integration & pipelines
+  - Game server & real-time systems
+  - Cloud infrastructure & microservices
 ```
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6B47?style=flat-square)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
@@ -113,11 +126,15 @@ focus:
 
 > *Phát triển hệ thống backend ổn định và có khả năng mở rộng, chuyên xây dựng API và xử lý logic nghiệp vụ.*
 
+**Lĩnh vực:**
+![Web](https://img.shields.io/badge/🌍_Web-1a1a2e?style=flat-square&labelColor=6366f1&color=1a1a2e)
+![Mobile](https://img.shields.io/badge/📱_Mobile_App-1a1a2e?style=flat-square&labelColor=34C759&color=1a1a2e)
+
 ```yaml
 focus:
-  - RESTful API design
-  - Business logic engineering
-  - API security
+  - RESTful API & business logic
+  - Mobile app backend & API
+  - API security & optimization
   - VPS/Cloud deployment
 ```
 
@@ -125,6 +142,7 @@ focus:
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![API Security](https://img.shields.io/badge/API%20Security-E53935?style=flat-square)
@@ -150,6 +168,9 @@ focus:
 
 > *Tạo ra các hoạt ảnh và tương tác hoàn hảo từng pixel.*
 
+**Lĩnh vực:**
+![Web](https://img.shields.io/badge/🌍_Web-1a1a2e?style=flat-square&labelColor=6366f1&color=1a1a2e)
+
 ```yaml
 specialty:
   - WebGL & 3D graphics
@@ -159,7 +180,7 @@ specialty:
 ```
 
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -174,11 +195,15 @@ specialty:
 
 > *Xây dựng giao diện web ổn định và tối ưu, mang lại trải nghiệm mượt mà.*
 
+**Lĩnh vực:**
+![Web](https://img.shields.io/badge/🌍_Web-1a1a2e?style=flat-square&labelColor=6366f1&color=1a1a2e)
+![Game](https://img.shields.io/badge/🎮_Game-1a1a2e?style=flat-square&labelColor=A855F7&color=1a1a2e)
+
 ```yaml
 specialty:
   - Scalable UI architecture
   - State management
-  - GraphQL integration
+  - Game UI & frontend logic
   - Test-driven frontend
 ```
 
@@ -187,8 +212,8 @@ specialty:
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Testing](https://img.shields.io/badge/Unit%20Testing-15C213?style=flat-square)
 
 </td>
 <td width="33%" valign="top">
@@ -198,21 +223,25 @@ specialty:
 
 > *Xây dựng trải nghiệm web và mobile web mượt mà, tối ưu cho mọi thiết bị.*
 
+**Lĩnh vực:**
+![Web](https://img.shields.io/badge/🌍_Web-1a1a2e?style=flat-square&labelColor=6366f1&color=1a1a2e)
+![Game](https://img.shields.io/badge/🎮_Game-1a1a2e?style=flat-square&labelColor=A855F7&color=1a1a2e)
+
 ```yaml
 specialty:
-  - PWA development
-  - Cross-device UX
-  - SEO optimization
-  - Web animations
+  - PWA & cross-device UX
+  - Game UI development
+  - SEO & web animations
+  - Performance optimization
 ```
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![SEO](https://img.shields.io/badge/SEO-4CAF50?style=flat-square)
-![Animation](https://img.shields.io/badge/Web%20Animation-FF6B6B?style=flat-square)
 
 </td>
 </tr>
@@ -230,7 +259,7 @@ specialty:
 
 <div align="center">
 
-### Frontend
+### 🌍 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -238,19 +267,29 @@ specialty:
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 
-### Backend
+### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### 📱 Mobile & 🎮 Game
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge)
 
-### DevOps & Cloud
+### 🤖 AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### 🗄️ Database & ☁️ DevOps
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -309,7 +348,7 @@ specialty:
 
 <div align="center">
 
-**[🌐 nebulalab.vercel.app](https://nebulalab.vercel.app/)** &nbsp;·&nbsp; **[GitHub @nebulalab](https://github.com/nebulalabb)**
+**[🌐 nebulalab.vercel.app](https://nebulalab.vercel.app/)** &nbsp;·&nbsp; **[GitHub @nebulalabb](https://github.com/nebulalabb)**
 
 <br/>
 
@@ -317,6 +356,6 @@ specialty:
 
 <br/>
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nebulalab.nebulalab&left_color=0d1117&right_color=6366f1)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nebulalabb.nebulalabb&left_color=0d1117&right_color=6366f1)
 
 </div>
